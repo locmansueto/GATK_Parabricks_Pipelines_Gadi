@@ -1,6 +1,6 @@
 # GATK_Parabricks_Pipelines_Gadi
 GATK and Parabricks pipelines on Gadi NCI
-
+[![DOI](https://zenodo.org/badge/431993313.svg)](https://zenodo.org/badge/latestdoi/431993313)
 
 ## GATK genomic variant-calling scripts
 gatk_submit_array.sh
